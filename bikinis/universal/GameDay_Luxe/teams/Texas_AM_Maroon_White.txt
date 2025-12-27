@@ -1,0 +1,15 @@
+GameDay_Luxe - Texas A&M Maroon + White
+
+School: Texas_AM
+Style: GameDay_Luxe
+Colorway: Maroon White
+
+Colors:
+- Primary (main fabric): #500000
+- Secondary (trim/outline): #FFFFFF
+
+Description:
+Premium bikini in official Texas_AM team colors.
+Texas A&M Maroon + White colorway.
+
+Generated: 2025-12-27

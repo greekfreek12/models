@@ -1,0 +1,14 @@
+GEORGIA BULLDOGS - OFFICIAL COLORS
+
+1. Bulldog Red: #BA0C2F
+   RGB: (186, 12, 47)
+   Pantone: PMS 200 C
+
+2. Arch Black: #000000
+   RGB: (0, 0, 0)
+   Pantone: Black
+
+3. Chapel Bell White: #FFFFFF
+   RGB: (255, 255, 255)
+
+Source: https://teamcolorcodes.com/georgia-bulldogs-color-codes/

@@ -1,0 +1,16 @@
+GameDay_Luxe - Florida Orange + Blue
+
+School: Florida
+Style: GameDay_Luxe
+Colorway: Orange Blue
+
+Colors:
+- Primary (main fabric): #FA4616
+- Secondary (trim/outline): #0021A5
+
+Description:
+Premium minimal coverage triangle bikini in official Florida team colors.
+Features ultra-thin straps and barely-there brazilian cut bottom.
+Florida Orange + Blue colorway.
+
+Generated: 2025-12-27

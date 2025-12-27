@@ -1,0 +1,16 @@
+Poolside_Classic - Tennessee Orange + White
+
+School: Tennessee
+Style: Poolside_Classic
+Colorway: Orange White
+
+Colors:
+- Primary (main fabric): #FF8200
+- Secondary (trim/outline): #FFFFFF
+
+Description:
+Premium triangle top bikini with tie-side bottom in official Tennessee team colors.
+Classic silhouette with thin straps and moderate coverage.
+Tennessee Orange + White colorway.
+
+Generated: 2025-12-27

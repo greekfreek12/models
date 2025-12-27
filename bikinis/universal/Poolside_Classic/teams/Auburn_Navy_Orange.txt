@@ -1,0 +1,15 @@
+Poolside_Classic - Auburn Navy + Orange
+
+School: Auburn
+Style: Poolside_Classic
+Colorway: Navy Orange
+
+Colors:
+- Primary (main fabric): #03244D
+- Secondary (trim/outline): #DD550C
+
+Description:
+Premium bikini in official Auburn team colors.
+Auburn Navy + Orange colorway.
+
+Generated: 2025-12-27

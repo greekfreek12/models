@@ -1,0 +1,16 @@
+Poolside_Classic - Alabama Crimson + Gray
+
+School: Alabama
+Style: Poolside_Classic
+Colorway: Crimson Gray
+
+Colors:
+- Primary (main fabric): #9E1B32
+- Secondary (trim/outline): #828A8F
+
+Description:
+Premium triangle top bikini with tie-side bottom in official Alabama team colors.
+Classic silhouette with thin straps and moderate coverage.
+Alabama Crimson + Gray colorway.
+
+Generated: 2025-12-27

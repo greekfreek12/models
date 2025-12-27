@@ -1,0 +1,14 @@
+LSU TIGERS - OFFICIAL COLORS
+
+1. Purple: #461D7C
+   RGB: (70, 29, 124)
+   Pantone: PMS 268 C
+
+2. Gold: #FDD023
+   RGB: (253, 208, 35)
+   Pantone: PMS 123 C
+
+3. White: #FFFFFF
+   RGB: (255, 255, 255)
+
+Source: https://teamcolorcodes.com/louisiana-state-lsu-tigers-colors/

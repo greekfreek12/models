@@ -1,0 +1,16 @@
+GameDay_Luxe - Ole Miss Powder Blue + Red
+
+School: Ole_Miss
+Style: GameDay_Luxe
+Colorway: PowderBlue Red
+
+Colors:
+- Primary (main fabric): #006BA6
+- Secondary (trim/outline): #CE1126
+
+Description:
+Premium minimal coverage triangle bikini in official Ole_Miss team colors.
+Features ultra-thin straps and barely-there brazilian cut bottom.
+Ole Miss Powder Blue + Red colorway.
+
+Generated: 2025-12-27

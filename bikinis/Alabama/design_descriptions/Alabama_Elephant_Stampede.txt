@@ -1,0 +1,28 @@
+Design Name: Elephant Stampede
+School: Alabama
+School Colors: Crimson (#9E1B32), Gray (#828A8F), White (#FFFFFF)
+
+=== VARIATIONS ===
+Elephant Stampede
+
+=== DESCRIPTION ===
+Gray bikini with subtle crimson elephant silhouettes scattered across fabric. Minimalist mascot design.
+
+=== PLACEMENT DETAILS ===
+Elephant silhouettes scattered: 2-3 small elephants on each breast cup, 4-5 elephants across bikini bottom front, 2-3 on back. Elephants face different directions creating stampede effect.
+
+=== STYLE ===
+Elegant animal print, bandeau top with high-waisted bottom
+
+=== COLORS USED ===
+Gray base with Crimson elephant prints
+
+=== NOTES FOR GENERATION ===
+This design is optimized for image generation models. The placement details specify exact locations for patterns, logos, and graphics to ensure accurate reproduction. When generating:
+- Follow placement specifications for graphic locations
+- Maintain color accuracy using provided hex codes
+- Preserve the style characteristics described
+- Ensure all design elements are clearly visible and well-defined
+
+Generated: 2025-12-27
+Version: V3 Final

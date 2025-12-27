@@ -1,0 +1,16 @@
+Poolside_Classic - Ole Miss Red + Powder Blue
+
+School: Ole_Miss
+Style: Poolside_Classic
+Colorway: Red PowderBlue
+
+Colors:
+- Primary (main fabric): #CE1126
+- Secondary (trim/outline): #006BA6
+
+Description:
+Premium triangle top bikini with tie-side bottom in official Ole_Miss team colors.
+Classic silhouette with thin straps and moderate coverage.
+Ole Miss Red + Powder Blue colorway.
+
+Generated: 2025-12-27

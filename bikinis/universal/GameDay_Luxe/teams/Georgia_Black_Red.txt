@@ -1,0 +1,16 @@
+GameDay_Luxe - Georgia Black + Red
+
+School: Georgia
+Style: GameDay_Luxe
+Colorway: Black Red
+
+Colors:
+- Primary (main fabric): #000000
+- Secondary (trim/outline): #BA0C2F
+
+Description:
+Premium minimal coverage triangle bikini in official Georgia team colors.
+Features ultra-thin straps and barely-there brazilian cut bottom.
+Georgia Black + Red colorway.
+
+Generated: 2025-12-27

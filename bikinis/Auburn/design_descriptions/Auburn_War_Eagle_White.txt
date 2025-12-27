@@ -1,0 +1,28 @@
+Design Name: War Eagle White
+School: Auburn
+School Colors: Navy Blue (#03244D), Burnt Orange (#DD550C), White (#FFFFFF)
+
+=== VARIATIONS ===
+War Eagle White
+
+=== DESCRIPTION ===
+WHITE bikini with navy blue and burnt orange eagle silhouettes flying across. NO TEXT, just eagle graphics. Clean colorway variation.
+
+=== PLACEMENT DETAILS ===
+Eagle silhouettes in two colors scattered: 2-3 eagles per breast cup (alternating navy and orange), 4-5 eagles across bikini bottom front (mixed colors), 2-3 on back. Flight pattern with varied eagle poses.
+
+=== STYLE ===
+Fresh take on War Eagle design, triangle top with brazilian bottom
+
+=== COLORS USED ===
+White base with Navy and Burnt Orange eagles
+
+=== NOTES FOR GENERATION ===
+This design is optimized for image generation models. The placement details specify exact locations for patterns, logos, and graphics to ensure accurate reproduction. When generating:
+- Follow placement specifications for graphic locations
+- Maintain color accuracy using provided hex codes
+- Preserve the style characteristics described
+- Ensure all design elements are clearly visible and well-defined
+
+Generated: 2025-12-27
+Version: V3 Final

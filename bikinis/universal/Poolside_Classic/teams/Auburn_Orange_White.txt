@@ -1,0 +1,15 @@
+Poolside_Classic - Auburn Orange + White
+
+School: Auburn
+Style: Poolside_Classic
+Colorway: Orange White
+
+Colors:
+- Primary (main fabric): #DD550C
+- Secondary (trim/outline): #FFFFFF
+
+Description:
+Premium bikini in official Auburn team colors.
+Auburn Orange + White colorway.
+
+Generated: 2025-12-27

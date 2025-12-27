@@ -1,0 +1,15 @@
+GameDay_Luxe - Auburn Orange + White
+
+School: Auburn
+Style: GameDay_Luxe
+Colorway: Orange White
+
+Colors:
+- Primary (main fabric): #DD550C
+- Secondary (trim/outline): #FFFFFF
+
+Description:
+Premium bikini in official Auburn team colors.
+Auburn Orange + White colorway.
+
+Generated: 2025-12-27

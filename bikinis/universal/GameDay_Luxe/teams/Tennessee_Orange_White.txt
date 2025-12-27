@@ -1,0 +1,16 @@
+GameDay_Luxe - Tennessee Orange + White
+
+School: Tennessee
+Style: GameDay_Luxe
+Colorway: Orange White
+
+Colors:
+- Primary (main fabric): #FF8200
+- Secondary (trim/outline): #FFFFFF
+
+Description:
+Premium minimal coverage triangle bikini in official Tennessee team colors.
+Features ultra-thin straps and barely-there brazilian cut bottom.
+Tennessee Orange + White colorway.
+
+Generated: 2025-12-27

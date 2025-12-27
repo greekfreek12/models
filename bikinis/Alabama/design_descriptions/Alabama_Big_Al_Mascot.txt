@@ -1,0 +1,28 @@
+Design Name: Big Al Mascot
+School: Alabama
+School Colors: Crimson (#9E1B32), Gray (#828A8F), White (#FFFFFF)
+
+=== VARIATIONS ===
+Big Al Mascot, Big Al Mascot Face
+
+=== DESCRIPTION ===
+White bikini with large crimson Big Al elephant mascot face prints. Cute cartoon Alabama elephant graphics.
+
+=== PLACEMENT DETAILS ===
+Large Big Al faces: One centered on each breast cup (2-3 inches), one large face centered on bikini bottom front (3-4 inches covering lower abdomen/bikini area), one on bikini bottom back. Faces show full elephant head with happy expression and Alabama branding.
+
+=== STYLE ===
+Playful team spirit, triangle top with brazilian bottom
+
+=== COLORS USED ===
+White base with Crimson mascot prints
+
+=== NOTES FOR GENERATION ===
+This design is optimized for image generation models. The placement details specify exact locations for patterns, logos, and graphics to ensure accurate reproduction. When generating:
+- Follow placement specifications for graphic locations
+- Maintain color accuracy using provided hex codes
+- Preserve the style characteristics described
+- Ensure all design elements are clearly visible and well-defined
+
+Generated: 2025-12-27
+Version: V3 Final

@@ -1,0 +1,15 @@
+Poolside_Classic - Auburn Navy + White
+
+School: Auburn
+Style: Poolside_Classic
+Colorway: Navy White
+
+Colors:
+- Primary (main fabric): #03244D
+- Secondary (trim/outline): #FFFFFF
+
+Description:
+Premium bikini in official Auburn team colors.
+Auburn Navy + White colorway.
+
+Generated: 2025-12-27

@@ -1,0 +1,15 @@
+Poolside_Classic - Oklahoma Crimson + Cream
+
+School: Oklahoma
+Style: Poolside_Classic
+Colorway: Crimson Cream
+
+Colors:
+- Primary (main fabric): #841617
+- Secondary (trim/outline): #FDF9D8
+
+Description:
+Premium bikini in official Oklahoma team colors.
+Oklahoma Crimson + Cream colorway.
+
+Generated: 2025-12-27

@@ -1,0 +1,14 @@
+FLORIDA GATORS - OFFICIAL COLORS
+
+1. Florida Blue: #0021A5
+   RGB: (0, 33, 165)
+   Pantone: PMS 287 C
+
+2. Orange: #FA4616
+   RGB: (250, 70, 22)
+   Pantone: PMS 172 C
+
+3. White: #FFFFFF
+   RGB: (255, 255, 255)
+
+Source: https://teamcolorcodes.com/florida-gators-color-codes/

@@ -1,0 +1,16 @@
+Poolside_Classic - Vanderbilt Black + Gold
+
+School: Vanderbilt
+Style: Poolside_Classic
+Colorway: Black Gold
+
+Colors:
+- Primary (main fabric): #000000
+- Secondary (trim/outline): #866D4B
+
+Description:
+Premium triangle top bikini with tie-side bottom in official Vanderbilt team colors.
+Classic silhouette with thin straps and moderate coverage.
+Vanderbilt Black + Gold colorway.
+
+Generated: 2025-12-27

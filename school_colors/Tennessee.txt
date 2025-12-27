@@ -1,0 +1,14 @@
+TENNESSEE VOLUNTEERS - OFFICIAL COLORS
+
+1. Tennessee Orange: #FF8200
+   RGB: (255, 130, 0)
+   Pantone: PMS 151 C
+
+2. Smokey Gray: #58595B
+   RGB: (88, 89, 91)
+   Pantone: PMS 425 C
+
+3. White: #FFFFFF
+   RGB: (255, 255, 255)
+
+Source: https://teamcolorcodes.com/tennessee-volunteers-color-codes/

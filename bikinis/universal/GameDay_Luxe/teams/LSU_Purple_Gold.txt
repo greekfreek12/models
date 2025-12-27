@@ -1,0 +1,16 @@
+GameDay_Luxe - LSU Purple + Gold
+
+School: LSU
+Style: GameDay_Luxe
+Colorway: Purple Gold
+
+Colors:
+- Primary (main fabric): #461D7C
+- Secondary (trim/outline): #FDD023
+
+Description:
+Premium minimal coverage triangle bikini in official LSU team colors.
+Features ultra-thin straps and barely-there brazilian cut bottom.
+LSU Purple + Gold colorway.
+
+Generated: 2025-12-27

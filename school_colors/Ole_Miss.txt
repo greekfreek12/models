@@ -1,0 +1,18 @@
+OLE MISS REBELS - OFFICIAL COLORS
+
+1. Navy Blue: #14213D
+   RGB: (20, 33, 61)
+   Pantone: PMS 2767 C
+
+2. Cardinal Red: #CE1126
+   RGB: (206, 17, 38)
+   Pantone: PMS 186 C
+
+3. Powder Blue: #006BA6
+   RGB: (0, 107, 166)
+   Pantone: PMS 307 C
+
+4. White: #FFFFFF
+   RGB: (255, 255, 255)
+
+Source: https://teamcolorcodes.com/ole-miss-rebels-color-codes/

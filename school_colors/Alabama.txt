@@ -1,0 +1,14 @@
+ALABAMA CRIMSON TIDE - OFFICIAL COLORS
+
+1. Crimson: #9E1B32
+   RGB: (158, 27, 50)
+   Pantone: PMS 201 C
+
+2. Gray: #828A8F
+   RGB: (130, 138, 143)
+   Pantone: PMS 430 C
+
+3. White: #FFFFFF
+   RGB: (255, 255, 255)
+
+Source: https://teamcolorcodes.com/alabama-crimson-tide-color-codes/

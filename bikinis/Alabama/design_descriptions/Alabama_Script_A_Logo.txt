@@ -1,0 +1,28 @@
+Design Name: Script A Logo
+School: Alabama
+School Colors: Crimson (#9E1B32), Gray (#828A8F), White (#FFFFFF)
+
+=== VARIATIONS ===
+Script A Logo, Script A Logo V2
+
+=== DESCRIPTION ===
+Solid crimson bikini with LARGE white Alabama Script A logos printed all over in dense repeated pattern. 15-20 logos total covering more surface area than typical prints.
+
+=== PLACEMENT DETAILS ===
+Multiple Script A logos scattered across: 3-4 logos on each breast cup, 5-6 logos across bikini bottom front, 3-4 logos on bikini bottom back. Logos vary in size from small (1 inch) to large (3 inches). Dense coverage.
+
+=== STYLE ===
+Bold team branding, modern college spirit aesthetic
+
+=== COLORS USED ===
+Crimson base with White logos
+
+=== NOTES FOR GENERATION ===
+This design is optimized for image generation models. The placement details specify exact locations for patterns, logos, and graphics to ensure accurate reproduction. When generating:
+- Follow placement specifications for graphic locations
+- Maintain color accuracy using provided hex codes
+- Preserve the style characteristics described
+- Ensure all design elements are clearly visible and well-defined
+
+Generated: 2025-12-27
+Version: V3 Final

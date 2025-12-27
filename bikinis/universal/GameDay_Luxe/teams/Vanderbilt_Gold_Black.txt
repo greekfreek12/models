@@ -1,0 +1,16 @@
+GameDay_Luxe - Vanderbilt Gold + Black
+
+School: Vanderbilt
+Style: GameDay_Luxe
+Colorway: Gold Black
+
+Colors:
+- Primary (main fabric): #866D4B
+- Secondary (trim/outline): #000000
+
+Description:
+Premium minimal coverage triangle bikini in official Vanderbilt team colors.
+Features ultra-thin straps and barely-there brazilian cut bottom.
+Vanderbilt Gold + Black colorway.
+
+Generated: 2025-12-27

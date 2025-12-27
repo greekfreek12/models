@@ -1,0 +1,16 @@
+Poolside_Classic - Georgia Red + Black
+
+School: Georgia
+Style: Poolside_Classic
+Colorway: Red Black
+
+Colors:
+- Primary (main fabric): #BA0C2F
+- Secondary (trim/outline): #000000
+
+Description:
+Premium triangle top bikini with tie-side bottom in official Georgia team colors.
+Classic silhouette with thin straps and moderate coverage.
+Georgia Red + Black colorway.
+
+Generated: 2025-12-27

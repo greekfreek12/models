@@ -1,0 +1,16 @@
+Poolside_Classic - LSU Gold + Purple
+
+School: LSU
+Style: Poolside_Classic
+Colorway: Gold Purple
+
+Colors:
+- Primary (main fabric): #FDD023
+- Secondary (trim/outline): #461D7C
+
+Description:
+Premium triangle top bikini with tie-side bottom in official LSU team colors.
+Classic silhouette with thin straps and moderate coverage.
+LSU Gold + Purple colorway.
+
+Generated: 2025-12-27

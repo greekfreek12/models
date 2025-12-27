@@ -1,0 +1,28 @@
+Design Name: Toomer's Oaks
+School: Auburn
+School Colors: Navy Blue (#03244D), Burnt Orange (#DD550C), White (#FFFFFF)
+
+=== VARIATIONS ===
+Toomer's Oaks, Toomer's Oaks V2
+
+=== DESCRIPTION ===
+White bikini with ENHANCED Toomer's Corner celebration design. Navy oak tree silhouettes with orange and white toilet paper streams ATTACHED to branches and flowing dramatically. Iconic Auburn tradition.
+
+=== PLACEMENT DETAILS ===
+Oak tree designs: Small navy tree silhouette centered on each breast cup with white/orange toilet paper draped over branches. Larger navy oak tree (3-4 inches) centered on bikini bottom front with dramatic toilet paper streams hanging from branches and flowing down. Toilet paper attached to tree branches, not floating.
+
+=== STYLE ===
+Campus tradition celebration, halter top with tie-side bottom
+
+=== COLORS USED ===
+White base with Navy trees and Orange/White toilet paper
+
+=== NOTES FOR GENERATION ===
+This design is optimized for image generation models. The placement details specify exact locations for patterns, logos, and graphics to ensure accurate reproduction. When generating:
+- Follow placement specifications for graphic locations
+- Maintain color accuracy using provided hex codes
+- Preserve the style characteristics described
+- Ensure all design elements are clearly visible and well-defined
+
+Generated: 2025-12-27
+Version: V3 Final

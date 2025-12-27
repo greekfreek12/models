@@ -1,0 +1,28 @@
+Design Name: Tiger Stripes White
+School: Auburn
+School Colors: Navy Blue (#03244D), Burnt Orange (#DD550C), White (#FFFFFF)
+
+=== VARIATIONS ===
+Tiger Stripes White
+
+=== DESCRIPTION ===
+WHITE base with navy and burnt orange tiger stripe pattern overlay. NO TEXT, pure pattern. Clean fresh colorway.
+
+=== PLACEMENT DETAILS ===
+Tiger stripes over white base running diagonally. Navy and burnt orange stripes (0.5-1 inch varying widths) create tiger pattern. White shows between stripes. Pattern covers entire bikini top and bottom.
+
+=== STYLE ===
+Light version of tiger stripes, triangle top with brazilian bottom
+
+=== COLORS USED ===
+White base with Navy and Burnt Orange stripes
+
+=== NOTES FOR GENERATION ===
+This design is optimized for image generation models. The placement details specify exact locations for patterns, logos, and graphics to ensure accurate reproduction. When generating:
+- Follow placement specifications for graphic locations
+- Maintain color accuracy using provided hex codes
+- Preserve the style characteristics described
+- Ensure all design elements are clearly visible and well-defined
+
+Generated: 2025-12-27
+Version: V3 Final

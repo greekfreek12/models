@@ -1,0 +1,28 @@
+Design Name: Roll Tide Stripes Championship
+School: Alabama
+School Colors: Crimson (#9E1B32), Gray (#828A8F), White (#FFFFFF)
+
+=== VARIATIONS ===
+Roll Tide Stripes, Roll Tide Stripes V2, Roll Tide Stripes Championship
+
+=== DESCRIPTION ===
+ELEGANT diagonal stripes in Crimson, Gray, and White (triple color). Thin refined stripes at 45-degree angle with subtle shimmer/metallic finish. Championship quality premium fabric.
+
+=== PLACEMENT DETAILS ===
+Diagonal stripes at 45-degree angle running from top-left to bottom-right across entire bikini. Stripes repeat in sequence: Crimson (0.5 inch), Gray (0.5 inch), White (0.5 inch). Pattern continuous across both top cups and bottom piece.
+
+=== STYLE ===
+Sophisticated preppy aesthetic, triangle top and cheeky bottom
+
+=== COLORS USED ===
+Crimson, Gray, and White striped
+
+=== NOTES FOR GENERATION ===
+This design is optimized for image generation models. The placement details specify exact locations for patterns, logos, and graphics to ensure accurate reproduction. When generating:
+- Follow placement specifications for graphic locations
+- Maintain color accuracy using provided hex codes
+- Preserve the style characteristics described
+- Ensure all design elements are clearly visible and well-defined
+
+Generated: 2025-12-27
+Version: V3 Final

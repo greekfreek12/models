@@ -1,0 +1,28 @@
+Design Name: Tiger Stripes Navy
+School: Auburn
+School Colors: Navy Blue (#03244D), Burnt Orange (#DD550C), White (#FFFFFF)
+
+=== VARIATIONS ===
+Tiger Stripes Auburn, Tiger Stripes Navy
+
+=== DESCRIPTION ===
+Navy and burnt orange bold tiger stripe pattern. NO TEXT, pure animal print. Diagonal stripes mimicking tiger fur pattern.
+
+=== PLACEMENT DETAILS ===
+Tiger stripes run diagonally across entire bikini. Stripes alternate: Navy (0.75 inch), Burnt Orange (0.5 inch), Navy (1 inch), creating irregular pattern like real tiger. Stripes continuous across top cups and bottom.
+
+=== STYLE ===
+Fierce Auburn Tigers aesthetic, bandeau top with cheeky bottom
+
+=== COLORS USED ===
+Navy and Burnt Orange striped
+
+=== NOTES FOR GENERATION ===
+This design is optimized for image generation models. The placement details specify exact locations for patterns, logos, and graphics to ensure accurate reproduction. When generating:
+- Follow placement specifications for graphic locations
+- Maintain color accuracy using provided hex codes
+- Preserve the style characteristics described
+- Ensure all design elements are clearly visible and well-defined
+
+Generated: 2025-12-27
+Version: V3 Final

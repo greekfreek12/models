@@ -1,0 +1,14 @@
+VANDERBILT COMMODORES - OFFICIAL COLORS
+
+1. Black: #000000
+   RGB: (0, 0, 0)
+   Pantone: Black
+
+2. Vanderbilt Gold: #866D4B
+   RGB: (134, 109, 75)
+   Pantone: PMS 4505 C
+
+3. White: #FFFFFF
+   RGB: (255, 255, 255)
+
+Source: https://teamcolorcodes.com/vanderbilt-commodores-color-codes/

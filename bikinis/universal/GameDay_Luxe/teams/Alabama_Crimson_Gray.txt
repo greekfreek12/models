@@ -1,0 +1,16 @@
+GameDay_Luxe - Alabama Crimson + Gray
+
+School: Alabama
+Style: GameDay_Luxe
+Colorway: Crimson Gray
+
+Colors:
+- Primary (main fabric): #9E1B32
+- Secondary (trim/outline): #828A8F
+
+Description:
+Premium minimal coverage triangle bikini in official Alabama team colors.
+Features ultra-thin straps and barely-there brazilian cut bottom.
+Alabama Crimson + Gray colorway.
+
+Generated: 2025-12-27

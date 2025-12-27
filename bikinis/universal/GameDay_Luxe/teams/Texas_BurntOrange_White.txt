@@ -1,0 +1,15 @@
+GameDay_Luxe - Texas Burnt Orange + White
+
+School: Texas
+Style: GameDay_Luxe
+Colorway: BurntOrange White
+
+Colors:
+- Primary (main fabric): #BF5700
+- Secondary (trim/outline): #FFFFFF
+
+Description:
+Premium bikini in official Texas team colors.
+Texas Burnt Orange + White colorway.
+
+Generated: 2025-12-27

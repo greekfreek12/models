@@ -1,0 +1,16 @@
+Poolside_Classic - Florida Blue + Orange
+
+School: Florida
+Style: Poolside_Classic
+Colorway: Blue Orange
+
+Colors:
+- Primary (main fabric): #0021A5
+- Secondary (trim/outline): #FA4616
+
+Description:
+Premium triangle top bikini with tie-side bottom in official Florida team colors.
+Classic silhouette with thin straps and moderate coverage.
+Florida Blue + Orange colorway.
+
+Generated: 2025-12-27

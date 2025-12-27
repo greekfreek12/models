@@ -1,0 +1,28 @@
+Design Name: Houndstooth Classic
+School: Alabama
+School Colors: Crimson (#9E1B32), Gray (#828A8F), White (#FFFFFF)
+
+=== VARIATIONS ===
+Houndstooth Classic
+
+=== DESCRIPTION ===
+Triangle bikini top and brazilian bottom in iconic crimson and white houndstooth pattern. Classic Bear Bryant pattern covering entire bikini.
+
+=== PLACEMENT DETAILS ===
+Houndstooth pattern covers entire bikini - both top cups and bottom piece. Pattern is repeated uniformly across all fabric. Thin straps, minimal coverage.
+
+=== STYLE ===
+Sophisticated preppy style
+
+=== COLORS USED ===
+Crimson and White houndstooth
+
+=== NOTES FOR GENERATION ===
+This design is optimized for image generation models. The placement details specify exact locations for patterns, logos, and graphics to ensure accurate reproduction. When generating:
+- Follow placement specifications for graphic locations
+- Maintain color accuracy using provided hex codes
+- Preserve the style characteristics described
+- Ensure all design elements are clearly visible and well-defined
+
+Generated: 2025-12-27
+Version: V3 Final
