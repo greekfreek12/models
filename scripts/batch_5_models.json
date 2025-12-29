@@ -1,0 +1,67 @@
+[
+  {
+    "model_name": "Sienna",
+    "age": 24,
+    "ethnicity": "Caucasian American",
+    "vibe": "Bombshell and glamorous",
+    "face_shape": "oval with defined structure",
+    "eye_color": "piercing blue",
+    "eye_shape": "large almond with feline quality",
+    "hair_color": "platinum blonde",
+    "hair_length": "very long",
+    "hair_texture": "straight and sleek",
+    "skin_tone": "deep golden bronze tan"
+  },
+  {
+    "model_name": "Elena",
+    "age": 23,
+    "ethnicity": "Mediterranean",
+    "vibe": "Classic beauty, elegant",
+    "face_shape": "oval with refined features",
+    "eye_color": "green-hazel",
+    "eye_shape": "large expressive eyes",
+    "hair_color": "dark brown, rich color",
+    "hair_length": "long and lush",
+    "hair_texture": "wavy with body",
+    "skin_tone": "olive with natural tan"
+  },
+  {
+    "model_name": "Scarlett",
+    "age": 21,
+    "ethnicity": "Caucasian American",
+    "vibe": "Fiery and unique",
+    "face_shape": "heart-shaped with soft features",
+    "eye_color": "emerald green",
+    "eye_shape": "large round eyes",
+    "hair_color": "auburn red with copper highlights",
+    "hair_length": "medium-long to shoulders",
+    "hair_texture": "wavy with volume",
+    "skin_tone": "very tan with natural freckles"
+  },
+  {
+    "model_name": "Isabella",
+    "age": 23,
+    "ethnicity": "Latina",
+    "vibe": "Sultry and confident",
+    "face_shape": "oval with defined cheekbones",
+    "eye_color": "deep brown",
+    "eye_shape": "large expressive eyes",
+    "hair_color": "dark brown, almost black",
+    "hair_length": "very long, to mid-back",
+    "hair_texture": "straight and sleek",
+    "skin_tone": "warm olive with golden undertones"
+  },
+  {
+    "model_name": "Maya",
+    "age": 22,
+    "ethnicity": "Mixed (Black/Latina)",
+    "vibe": "Exotic and captivating",
+    "face_shape": "oval with mixed features",
+    "eye_color": "light brown with amber tones",
+    "eye_shape": "large almond eyes",
+    "hair_color": "dark brown with natural highlights",
+    "hair_length": "long, voluminous",
+    "hair_texture": "loose curls and waves",
+    "skin_tone": "warm caramel with golden undertones"
+  }
+]

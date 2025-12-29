@@ -1,0 +1,72 @@
+[
+  {
+    "model_name": "Variant1",
+    "age": 23,
+    "ethnicity": "Caucasian American",
+    "vibe": "Natural beauty, warm and approachable",
+    "face_shape": "oval with soft defined features, natural beauty",
+    "eye_color": "bright blue",
+    "eye_shape": "large almond eyes, warm and expressive",
+    "lip_description": "full natural lips, soft and defined",
+    "hair_color": "honey blonde with natural highlights",
+    "hair_length": "long past shoulders",
+    "hair_texture": "natural waves with body",
+    "skin_tone": "warm golden tan"
+  },
+  {
+    "model_name": "Variant2",
+    "age": 22,
+    "ethnicity": "Caucasian American",
+    "vibe": "Natural beauty, confident",
+    "face_shape": "oval with soft defined features, natural beauty",
+    "eye_color": "warm hazel-green",
+    "eye_shape": "large almond eyes, warm and expressive",
+    "lip_description": "full natural lips, soft and defined",
+    "hair_color": "medium brown with caramel highlights",
+    "hair_length": "long and flowing",
+    "hair_texture": "soft waves",
+    "skin_tone": "warm golden tan"
+  },
+  {
+    "model_name": "Variant3",
+    "age": 23,
+    "ethnicity": "Caucasian American",
+    "vibe": "Natural beauty, beachy",
+    "face_shape": "oval with soft defined features, natural beauty",
+    "eye_color": "blue-green",
+    "eye_shape": "large almond eyes, warm and expressive",
+    "lip_description": "full natural lips, soft and defined",
+    "hair_color": "sandy blonde with sun-kissed streaks",
+    "hair_length": "long past shoulders",
+    "hair_texture": "beachy waves with natural texture",
+    "skin_tone": "deep golden tan"
+  },
+  {
+    "model_name": "Variant4",
+    "age": 22,
+    "ethnicity": "Caucasian American",
+    "vibe": "Natural beauty, elegant",
+    "face_shape": "oval with soft defined features, natural beauty",
+    "eye_color": "deep brown, warm",
+    "eye_shape": "large almond eyes, warm and expressive",
+    "lip_description": "full natural lips, soft and defined",
+    "hair_color": "dark brown with subtle highlights",
+    "hair_length": "very long to mid-back",
+    "hair_texture": "soft waves with shine",
+    "skin_tone": "warm tan, sun-kissed"
+  },
+  {
+    "model_name": "Variant5",
+    "age": 23,
+    "ethnicity": "Caucasian American",
+    "vibe": "Natural beauty, soft",
+    "face_shape": "oval with soft defined features, natural beauty",
+    "eye_color": "light brown with amber tones",
+    "eye_shape": "large almond eyes, warm and expressive",
+    "lip_description": "full natural lips, soft and defined",
+    "hair_color": "light brown with blonde highlights",
+    "hair_length": "long and lush",
+    "hair_texture": "soft natural waves",
+    "skin_tone": "medium golden tan"
+  }
+]

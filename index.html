@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Models Gallery</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: white;
+            font-size: 48px;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .subtitle {
+            text-align: center;
+            color: rgba(255,255,255,0.9);
+            font-size: 18px;
+            margin-bottom: 50px;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+            gap: 40px;
+            padding: 20px;
+            justify-items: center;
+        }
+
+        .model-card {
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            cursor: pointer;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .model-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.4);
+        }
+
+        .model-image {
+            width: 100%;
+            height: 600px;
+            object-fit: contain;
+            display: block;
+            background: #f0f0f0;
+        }
+
+        .model-name {
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: 600;
+            color: #333;
+            text-transform: capitalize;
+            background: linear-gradient(to right, #f093fb 0%, #f5576c 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 20px;
+            padding: 40px;
+        }
+
+        /* Modal for full image view */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.9);
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            max-width: 90%;
+            max-height: 90%;
+            object-fit: contain;
+        }
+
+        .close-modal {
+            position: absolute;
+            top: 20px;
+            right: 40px;
+            color: white;
+            font-size: 40px;
+            font-weight: bold;
+            cursor: pointer;
+            z-index: 1001;
+        }
+
+        .close-modal:hover {
+            color: #f5576c;
+        }
+
+        .modal-name {
+            position: absolute;
+            bottom: 30px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: white;
+            font-size: 32px;
+            font-weight: 600;
+            text-transform: capitalize;
+            text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Models Gallery</h1>
+        <p class="subtitle">9 Models • Click to view full image</p>
+
+        <div class="gallery" id="gallery">
+            <div class="loading">Loading models...</div>
+        </div>
+    </div>
+
+    <!-- Modal for full image -->
+    <div class="modal" id="modal">
+        <span class="close-modal" onclick="closeModal()">&times;</span>
+        <img class="modal-content" id="modalImage">
+        <div class="modal-name" id="modalName"></div>
+    </div>
+
+    <script>
+        // List of all model names
+        const models = [
+            'aria', 'bella', 'brooke', 'chloe', 'jade',
+            'luna', 'madison', 'mia', 'victoria'
+        ];
+
+        // Generate gallery
+        function loadGallery() {
+            const gallery = document.getElementById('gallery');
+            gallery.innerHTML = '';
+
+            models.forEach(modelName => {
+                const card = document.createElement('div');
+                card.className = 'model-card';
+                card.onclick = () => openModal(modelName);
+
+                const img = document.createElement('img');
+                img.className = 'model-image';
+                img.src = `models/${modelName}/base.jpeg`;
+                img.alt = modelName;
+                img.onerror = function() {
+                    this.src = 'https://via.placeholder.com/300x400?text=' + modelName;
+                };
+
+                const name = document.createElement('div');
+                name.className = 'model-name';
+                name.textContent = modelName;
+
+                card.appendChild(img);
+                card.appendChild(name);
+                gallery.appendChild(card);
+            });
+        }
+
+        // Modal functions
+        function openModal(modelName) {
+            const modal = document.getElementById('modal');
+            const modalImg = document.getElementById('modalImage');
+            const modalName = document.getElementById('modalName');
+
+            modal.classList.add('active');
+            modalImg.src = `models/${modelName}/base.jpeg`;
+            modalName.textContent = modelName;
+        }
+
+        function closeModal() {
+            document.getElementById('modal').classList.remove('active');
+        }
+
+        // Close modal on escape key
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                closeModal();
+            }
+        });
+
+        // Close modal on background click
+        document.getElementById('modal').addEventListener('click', function(event) {
+            if (event.target === this) {
+                closeModal();
+            }
+        });
+
+        // Load gallery on page load
+        window.onload = loadGallery;
+    </script>
+</body>
+</html>

@@ -1,0 +1,121 @@
+{
+  "model_name": "Madison",
+  "age": 23,
+  "ethnicity": "Caucasian American",
+
+  "face": {
+    "shape": "oval with high defined cheekbones, striking symmetrical beauty",
+    "eyes": {
+      "color": "piercing bright blue",
+      "shape": "large almond-shaped eyes with feline quality",
+      "size": "notably large, captivating, doe-like"
+    },
+    "nose": {
+      "shape": "small refined button nose, perfectly sculpted",
+      "size": "delicate and petite"
+    },
+    "lips": {
+      "fullness": "very full plump lips",
+      "shape": "defined cupid's bow, pouty lower lip",
+      "color": "natural rose pink"
+    },
+    "face_structure": {
+      "cheekbones": "high and defined, model-like structure",
+      "jawline": "defined feminine jawline, elegant taper",
+      "chin": "slightly pointed, feminine"
+    },
+    "skin": {
+      "tone": "golden tan base, sun-kissed year-round",
+      "texture": "natural skin texture with visible pores, slight imperfections, real human skin"
+    }
+  },
+
+  "hair": {
+    "color": "blonde with platinum and golden highlights, multi-dimensional",
+    "length": "very long, past mid-back to lower back",
+    "texture": "naturally wavy with volume, thick and lustrous beach waves"
+  },
+
+  "body": {
+    "height_description": "tall with long legs, model proportions",
+    "overall_build": "athletic hourglass bombshell, fitness model physique",
+
+    "upper_body": {
+      "breast": {
+        "size": "full D-cup, voluptuous and prominent",
+        "shape": "natural teardrop shape with lift, full and shapely"
+      },
+      "shoulders": {
+        "width": "athletic and proportionate, feminine but strong",
+        "shape": "defined shoulders with elegant slope"
+      }
+    },
+
+    "waist": {
+      "description": "very narrow and cinched, dramatic taper",
+      "definition_level": "visible abs, toned and defined midsection"
+    },
+
+    "hips": {
+      "width": "very wide and curved, extreme hourglass proportions",
+      "curve": "dramatic feminine curves, full and shapely"
+    },
+
+    "waist_to_hip_ratio": "extreme dramatic hourglass, significantly wider hips than waist",
+
+    "glutes": {
+      "overall_shape": "very round, very full, and highly lifted - elite bubble butt",
+      "volume": "exceptional volume and projection, notably prominent feature",
+      "lift": "extremely high natural lift, perky and elevated",
+      "roundness": "perfectly spherical from side view, full bubble shape",
+      "fullness": {
+        "upper_glutes": "very full and developed, creates dramatic lift",
+        "mid_glutes": "maximum fullness and projection, peak prominence",
+        "lower_glutes": "well-defined underbutt curve, clear separation"
+      },
+      "shape_description": "elite fitness model bubble butt - round, lifted, exceptional projection",
+      "width": "very wide and full from back view, prominent feature",
+      "firmness": "athletic firmness with fullness, toned and shapely",
+      "side_view": "dramatic projection creating pronounced curve from lower back",
+      "back_view": "very round, very full, symmetrical, standout feature"
+    },
+
+    "legs": {
+      "length": "very long and lean, model-like proportions",
+      "thighs": {
+        "shape": "thick and shapely, athletic and full",
+        "gap": "slight gap at top where thighs meet",
+        "tone": "naturally toned with feminine curves"
+      },
+      "calves": {
+        "shape": "defined and feminine, elegantly toned",
+        "size": "proportionate and shapely"
+      }
+    },
+
+    "proportions": "extreme athletic hourglass - very narrow waist, very wide hips, exceptional glutes, long legs",
+    "body_type": "Instagram fitness model / elite beach volleyball physique"
+  },
+
+  "skin_overall": {
+    "baseline_tone": "golden tan year-round",
+    "tan_capability": "deepens to bronze goddess with sun",
+    "texture": "natural skin texture throughout, visible pores, slight imperfections"
+  },
+
+  "critical_requirements": [
+    "Natural skin texture with visible pores - MANDATORY",
+    "No beauty filter or AI smoothing anywhere",
+    "Real human proportions with slight asymmetry",
+    "Extreme athletic hourglass with exceptional glutes - SIGNATURE FEATURE",
+    "Natural and realistic, never exaggerated",
+    "Glutes must be very prominent, highly lifted, round, shapely - DEFINING FEATURE",
+    "Striking beautiful face with captivating features"
+  ],
+
+  "notes": {
+    "fixed_vs_variable": "This profile contains ONLY fixed physical characteristics. Variable traits like hairstyle (up/down/braided), makeup level (minimal/moderate/glam), tan level (golden/deep bronze), and outfit are specified per-generation, NOT in this profile.",
+    "purpose": "Identity reference for consistent person generation across all content",
+    "compared_to_savannah": "More striking face, bigger chest (D vs C), more prominent glutes, deeper baseline tan, more extreme hourglass, taller/longer legs, more Instagram model aesthetic"
+  }
+}

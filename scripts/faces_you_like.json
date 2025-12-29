@@ -1,0 +1,290 @@
+[
+  {
+    "model_name": "Model1",
+    "age": 20,
+    "vibe": "Sweet girl-next-door, fresh and innocent",
+    "face": {
+      "shape": "soft oval with gentle curves, youthful baby-faced beauty",
+      "eyes": {
+        "color": "bright blue, crystal clear with sparkle",
+        "shape": "large doe eyes with innocent quality",
+        "size": "very large, expressive, sweet and captivating"
+      },
+      "nose": {
+        "shape": "small delicate button nose, soft and feminine",
+        "size": "petite and proportionate"
+      },
+      "lips": {
+        "fullness": "naturally full lips, soft and plump",
+        "shape": "gentle cupid's bow, soft proportionate lower lip",
+        "color": "natural pink rose"
+      },
+      "face_structure": {
+        "cheekbones": "soft rounded cheekbones, youthful fullness",
+        "jawline": "soft feminine jawline, gentle taper",
+        "chin": "rounded soft chin, baby-faced"
+      },
+      "skin": {
+        "tone": "deep golden tan, sun-kissed and warm",
+        "texture": "natural skin texture with visible pores, slight imperfections, real human skin"
+      }
+    },
+    "hair": {
+      "color": "light blonde with natural sun-kissed highlights",
+      "length": "long past shoulders",
+      "texture": "soft natural waves with body"
+    }
+  },
+  {
+    "model_name": "Model2",
+    "age": 21,
+    "vibe": "Natural beauty, warm and approachable",
+    "face": {
+      "shape": "oval with soft defined features, natural girl-next-door beauty",
+      "eyes": {
+        "color": "warm rich brown, honey tones with depth",
+        "shape": "large almond eyes with friendly quality",
+        "size": "notably large, warm, expressive and inviting"
+      },
+      "nose": {
+        "shape": "refined feminine nose, soft slope",
+        "size": "delicate and balanced"
+      },
+      "lips": {
+        "fullness": "full natural lips, soft and defined",
+        "shape": "subtle cupid's bow, proportionate lower lip",
+        "color": "soft pink nude"
+      },
+      "face_structure": {
+        "cheekbones": "softly defined cheekbones, natural beauty",
+        "jawline": "soft oval jawline, feminine and gentle",
+        "chin": "softly rounded, elegant"
+      },
+      "skin": {
+        "tone": "medium to deep golden tan, year-round sun-kissed glow",
+        "texture": "natural skin texture with visible pores, slight imperfections, real human skin"
+      }
+    },
+    "hair": {
+      "color": "caramel brown with natural blonde highlights",
+      "length": "long and lush",
+      "texture": "natural waves, soft and bouncy"
+    }
+  },
+  {
+    "model_name": "Model3",
+    "age": 20,
+    "vibe": "Fresh-faced innocent beauty, sweet and soft",
+    "face": {
+      "shape": "soft oval with gentle features, baby-faced and youthful",
+      "eyes": {
+        "color": "bright emerald green, clear and sparkly",
+        "shape": "very large doe eyes with innocent sweet quality",
+        "size": "exceptionally large, captivating, pure and expressive"
+      },
+      "nose": {
+        "shape": "small button nose, delicate and sweet",
+        "size": "very petite and refined"
+      },
+      "lips": {
+        "fullness": "naturally full lips, soft pink plumpness",
+        "shape": "defined cupid's bow, full lower lip",
+        "color": "natural rose pink"
+      },
+      "face_structure": {
+        "cheekbones": "soft high cheekbones, youthful fullness",
+        "jawline": "soft feminine jawline, baby-faced",
+        "chin": "gently rounded, soft and feminine"
+      },
+      "skin": {
+        "tone": "deep golden tan with subtle luminous glow",
+        "texture": "natural skin texture with visible pores, slight imperfections, real human skin"
+      }
+    },
+    "hair": {
+      "color": "ash blonde, light with natural dimension",
+      "length": "long past shoulders",
+      "texture": "soft waves with natural movement"
+    }
+  },
+  {
+    "model_name": "Model4",
+    "age": 21,
+    "vibe": "Sweet Southern charm, friendly and approachable",
+    "face": {
+      "shape": "oval with soft defined features, elegant youthful beauty",
+      "eyes": {
+        "color": "warm hazel with golden flecks, bright and inviting",
+        "shape": "large almond eyes with warm friendly quality",
+        "size": "notably large, expressive, warm and captivating"
+      },
+      "nose": {
+        "shape": "refined feminine nose, soft bridge",
+        "size": "delicate and proportionate"
+      },
+      "lips": {
+        "fullness": "full natural lips, soft and defined",
+        "shape": "subtle defined cupid's bow, soft lower lip",
+        "color": "warm nude pink"
+      },
+      "face_structure": {
+        "cheekbones": "defined soft cheekbones, natural beauty",
+        "jawline": "soft elegant jawline, feminine taper",
+        "chin": "softly tapered, feminine"
+      },
+      "skin": {
+        "tone": "warm deep golden tan, sun-drenched and radiant",
+        "texture": "natural skin texture with visible pores, slight imperfections, real human skin"
+      }
+    },
+    "hair": {
+      "color": "golden brown with honey highlights",
+      "length": "long to mid-back",
+      "texture": "natural loose waves"
+    }
+  },
+  {
+    "model_name": "Model5",
+    "age": 20,
+    "vibe": "Innocent youthful beauty, sweet and pure",
+    "face": {
+      "shape": "soft round with baby-faced features, youthful sweetness",
+      "eyes": {
+        "color": "light blue, crystal clear with sparkle",
+        "shape": "very large round doe eyes with innocent quality",
+        "size": "exceptionally large, doe-like, sweet and pure"
+      },
+      "nose": {
+        "shape": "small delicate button nose, perfectly sweet",
+        "size": "petite and refined"
+      },
+      "lips": {
+        "fullness": "naturally full soft lips, gentle plumpness",
+        "shape": "soft cupid's bow, proportionate full lower lip",
+        "color": "natural rosy pink"
+      },
+      "face_structure": {
+        "cheekbones": "soft rounded cheekbones, baby-faced fullness",
+        "jawline": "soft rounded jawline, youthful and gentle",
+        "chin": "softly rounded, baby-faced"
+      },
+      "skin": {
+        "tone": "medium golden tan with rosy warm glow",
+        "texture": "natural skin texture with visible pores, slight imperfections, real human skin"
+      }
+    },
+    "hair": {
+      "color": "honey blonde with lighter sun-kissed tones",
+      "length": "very long, flowing",
+      "texture": "soft natural waves with volume"
+    }
+  },
+  {
+    "model_name": "Model6",
+    "age": 21,
+    "vibe": "Fresh natural beauty, beachy and approachable",
+    "face": {
+      "shape": "soft oval with gentle features, natural youthful beauty",
+      "eyes": {
+        "color": "blue-green aqua, bright and expressive",
+        "shape": "large almond eyes with sweet friendly quality",
+        "size": "notably large, captivating, warm and inviting"
+      },
+      "nose": {
+        "shape": "refined feminine nose, delicate slope",
+        "size": "petite and balanced"
+      },
+      "lips": {
+        "fullness": "full natural lips, soft and proportionate",
+        "shape": "gentle cupid's bow, soft full lower lip",
+        "color": "soft pink nude"
+      },
+      "face_structure": {
+        "cheekbones": "soft defined cheekbones, natural elegance",
+        "jawline": "soft feminine jawline, gentle taper",
+        "chin": "softly rounded, feminine"
+      },
+      "skin": {
+        "tone": "deep golden tan, sun-kissed beach goddess glow",
+        "texture": "natural skin texture with visible pores, slight imperfections, real human skin"
+      }
+    },
+    "hair": {
+      "color": "sandy blonde with natural sun highlights",
+      "length": "long and flowing",
+      "texture": "beachy waves, natural texture"
+    }
+  },
+  {
+    "model_name": "Model7",
+    "age": 20,
+    "vibe": "Sweet innocent beauty, fresh girl-next-door",
+    "face": {
+      "shape": "soft oval with baby-faced features, gentle youthful beauty",
+      "eyes": {
+        "color": "bright blue with depth, sparkly and clear",
+        "shape": "very large eyes with innocent expressive quality",
+        "size": "exceptionally large, captivating, doe-like purity"
+      },
+      "nose": {
+        "shape": "small refined button nose, delicate and sweet",
+        "size": "very petite and feminine"
+      },
+      "lips": {
+        "fullness": "naturally full lips, soft rosy plumpness",
+        "shape": "defined cupid's bow, full soft lower lip",
+        "color": "natural rosy pink"
+      },
+      "face_structure": {
+        "cheekbones": "soft high cheekbones, youthful definition",
+        "jawline": "soft feminine jawline, baby-faced elegance",
+        "chin": "gently rounded, soft and youthful"
+      },
+      "skin": {
+        "tone": "warm golden tan with natural luminous glow",
+        "texture": "natural skin texture with visible pores, slight imperfections, real human skin"
+      }
+    },
+    "hair": {
+      "color": "blonde with golden tones and dimension",
+      "length": "very long to lower back",
+      "texture": "soft natural waves"
+    }
+  },
+  {
+    "model_name": "Model8",
+    "age": 21,
+    "vibe": "Natural approachable beauty, warm and friendly",
+    "face": {
+      "shape": "oval with soft elegant features, natural youthful beauty",
+      "eyes": {
+        "color": "warm brown with amber tones, rich and friendly",
+        "shape": "large expressive eyes with sweet warm quality",
+        "size": "notably large, captivating, warm and inviting"
+      },
+      "nose": {
+        "shape": "refined feminine nose, soft delicate bridge",
+        "size": "delicate and proportionate"
+      },
+      "lips": {
+        "fullness": "full natural lips, soft and defined",
+        "shape": "subtle cupid's bow, soft proportionate lower lip",
+        "color": "warm nude pink"
+      },
+      "face_structure": {
+        "cheekbones": "softly defined cheekbones, natural beauty",
+        "jawline": "soft feminine jawline, elegant gentle taper",
+        "chin": "softly rounded, elegant and feminine"
+      },
+      "skin": {
+        "tone": "deep golden tan throughout, sun-kissed year-round warmth",
+        "texture": "natural skin texture with visible pores, slight imperfections, real human skin"
+      }
+    },
+    "hair": {
+      "color": "medium brown with caramel and blonde streaks",
+      "length": "long and lush",
+      "texture": "bouncy natural waves"
+    }
+  }
+]
